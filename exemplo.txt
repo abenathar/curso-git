@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Um texto para estar aqui!
+
+Qualquer coisa
+>>>>>>> parent of 04f99b6... Testando mais uma vez
